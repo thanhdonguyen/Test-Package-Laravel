@@ -1,11 +1,11 @@
 {
-    "name": "kynm/hello-world",
+    "name": "thanhdo/hello-world",
     "description": "the first composer package",
     "type": "php",
     "license": "aaa",
     "authors": [
         {
-            "name": "kynm",
+            "name": "thanhdo",
             "email": "thanhdo181@gmail.com"
         }
     ],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kynm\\SayHello\\": "src/"
+            "thanhdo\\SayHello\\": "src/"
         }
     }
 }
